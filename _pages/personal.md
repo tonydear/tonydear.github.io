@@ -1,6 +1,6 @@
 ---
-permalink: /
+layout: archive
 title: "Personal"
-excerpt: "Personal"
+permalink: "Personal"
 author_profile: true
 ---
