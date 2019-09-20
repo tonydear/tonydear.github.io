@@ -5,13 +5,19 @@ permalink: /teaching/coms4701
 date: Fall 2019, Fall 2018
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+## Course Description
+Artificial Intelligence (AI) is a broad and fast-growing subfield of Computer Science concerned with the construction and deployment of intelligent agents. This course provides an overview of methods, history, and impact of AI. It covers heuristic search, game playing, reasoning under uncertainty, reinforcement learning, Bayesian networks, Markov models, machine learning, and applications (natural language processing, vision, robotics, as time permits). Students will solve a variety of AI problems using Python.
 
-Heading 1
-======
+## Course Objectives
+- Formulate search problems and implement search algorithms using admissible heuristics.
+- Describe games as adversarial search problems and implement optimal and efficient solutions.
+- Formulate nondeterministic search as Markov decision processes and solve the Bellman equations using dynamic programming.
+- Formulate Bayesian networks for stochastic problems and use them to solve inference problems.
+- Solve temporal applications using hidden Markov models and filtering algorithms.
+- Define the machine learning problem and implement simple algorithms including Naive Bayes and perceptrons.
 
-Heading 2
-======
-
-Heading 3
-======
+## Prerequisites
+- Data Structures (COMS W3134 or COMS W3137)
+- Familiarity with basic probability theory (joint/conditional probabilities, random variables)
+- Familiarity with basic linear algebra (vector and matrix operations)
+- Experience with Python or similar programming language
