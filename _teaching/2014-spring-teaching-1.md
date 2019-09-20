@@ -5,7 +5,6 @@ permalink: /teaching/coms4701
 date: Fall 2019, Fall 2018
 ---
 
-## Course Description
 Artificial Intelligence (AI) is a broad and fast-growing subfield of Computer Science concerned with the construction and deployment of intelligent agents. This course provides an overview of methods, history, and impact of AI. It covers heuristic search, game playing, reasoning under uncertainty, reinforcement learning, Bayesian networks, Markov models, machine learning, and applications (natural language processing, vision, robotics, as time permits). Students will solve a variety of AI problems using Python.
 
 ## Course Objectives
@@ -21,3 +20,5 @@ Artificial Intelligence (AI) is a broad and fast-growing subfield of Computer Sc
 - Familiarity with basic probability theory (joint/conditional probabilities, random variables)
 - Familiarity with basic linear algebra (vector and matrix operations)
 - Experience with Python or similar programming language
+
+## List of Topics
