@@ -9,6 +9,6 @@ This is a list of courses that I most recently taught. Descriptions and lists of
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+{% for post in site.teaching %}
   {% include archive-single.html %}
 {% endfor %}
