@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-This is a list of courses that I have taught. Descriptions and lists of topics are shown for the most recent offering of each course.
+This is a list of courses that I have taught. Descriptions are shown for the most recent offering of each course.
 
 {% include base_path %}
 
