@@ -5,7 +5,7 @@ permalink: /personal/
 author_profile: true
 ---
 
-## Career Advice
+# Career Advice
 This is a collection of thoughts and revelations that I had during the job search for my first (and as of this writing, current) job post-PhD, that as a teaching faculty member. As STEM enrollment continues to grow across all majors, faculty who focus exclusively on teaching are arguably becoming more valuable and important for student success.
 
 ### Why teaching faculty?
