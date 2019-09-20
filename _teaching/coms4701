@@ -22,3 +22,26 @@ Artificial Intelligence (AI) is a broad and fast-growing subfield of Computer Sc
 - Experience with Python or similar programming language
 
 ## List of Topics
+1. Motivations and history of AI
+2. Environments and agents
+3. Uninformed search
+4. Informed (heuristic) search
+5. CSPs and backtracking search
+6. CSPs and inference
+7. Adversarial search
+8. Imperfect decisions and stochasticity
+9. Markov decision processes
+10. MDP algorithms
+11. Passive reinforcement learning
+12. Active reinforcement learning
+13. Probability review
+14. Bayesian networks
+15. Inference in BNs
+16. Sampling in BNs
+17. Hidden Markov models
+18. Inference in HMMs
+19. Machine learning fundamentals
+20. Naive Bayes
+21. Perceptrons
+22. Neural networks
+23. Deep learning
