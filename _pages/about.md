@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /~tdear
 ---
 
 Welcome to my homepage! I am a lecturer in the [Computer Science Department](http://www.cs.columbia.edu), situated under the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS), at [Columbia University](https://www.columbia.edu/). This semester (Fall 2019), I am teaching Artificial Intelligence (COMS 4701). I am also an [academic advisor](http://www.cs.columbia.edu/education/undergraduate/advisors/) for [Columbia College](https://www.college.columbia.edu/) sophomores intending to major in CS; please feel free to reach out by email for an appointment.
