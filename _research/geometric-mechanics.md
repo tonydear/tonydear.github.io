@@ -13,4 +13,6 @@ At the heart of these ideas is the identification of symmetries in a robot's mat
 
 In the spirit of extending the usefulness of geometric mechanics to more general systems, we consider modifications that must be made in the face of loss of symmetries or dynamic effects. For example, the replacement of the snake robot's rear joint motor with a passive spring makes the system dynamic and immediately complicates the model. However, we can extend the analysis of the "fully actuated" robot to this new one, allowing us to locomote the partially actuated robot just as effectively as its predecessor. This is useful for modeling such a robot with even more links as well, as shown in our robot navigation video below.
 
+<iframe src="https://drive.google.com/file/d/1MRLJHFY1f0dLjejU1gvwQqKDcWbh0bWx/preview" width="640" height="480"></iframe>
+
 Other examples of geometric applications for dynamic robots include systems interacting with the ambient medium. This is particularly relevant for swimming robots that interact with the surrounding fluid and with each other via the fluid. Applications include the generation of gaits and motion controllers that synchronize locomotion in such environments
