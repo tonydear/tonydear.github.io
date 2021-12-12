@@ -7,7 +7,10 @@ main:
     url: /teaching/
 
   - title: "Research"
-    url: /research/    
+    url: /research/
     
-  - title: "Personal"
+  - title: "Letters"
+    url: /letters/  
+    
+  - title: "Career Advice"
     url: /personal/ 
