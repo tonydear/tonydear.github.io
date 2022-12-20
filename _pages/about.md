@@ -10,7 +10,7 @@ redirect_from:
   - /~tdear/
 ---
 
-Welcome to my homepage! I am a lecturer in the [Computer Science Department](http://www.cs.columbia.edu) of the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS) at [Columbia University](https://www.columbia.edu/). This semester (Spring 2023), I am teaching Computational Linear Algebra (COMS 3251) and Artificial Intelligence (COMS 4701). I am also an [academic advisor](http://www.cs.columbia.edu/education/undergraduate/advisors/) for [Columbia College](https://www.college.columbia.edu/) seniors majoring in CS; please feel free to reach out by email for an appointment.
+Welcome to my homepage! I am a lecturer in the [Computer Science Department](http://www.cs.columbia.edu) of the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS) at [Columbia University](https://www.columbia.edu/). This semester (Spring 2023), I am teaching Computational Linear Algebra (COMS 3251) and Artificial Intelligence (COMS 4701). I am also an [academic advisor](http://www.cs.columbia.edu/education/undergraduate/advisors/) for [Columbia College](https://www.college.columbia.edu/) juniors majoring in CS; please feel free to reach out by email for an appointment.
 
 As a lecturer, my energies are primarily focused on teaching and refining my courses, advising undergraduate students, and contributing to various education programs in the school. I am the faculty director of the [CS@CU Bridge to MS Program](https://www.cs.columbia.edu/ms-bridge/) in Computer Science, and I am also the faculty director of a new online [Artificial Intelligence executive education program](https://ai.engineering.columbia.edu/) in Columbia Engineering.
 
