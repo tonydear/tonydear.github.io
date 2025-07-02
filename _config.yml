@@ -1,4 +1,4 @@
- # Welcome to Jekyll!
+  # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tony Dear"
   avatar           : "TLPS-5286-2.jpg"
-  bio              : "Lecturer in Computer Science at Columbia University"
+  bio              : "Senior Lecturer in Computer Science at Columbia University"
   location         : "New York, New York, USA"
   employer         :
   pubmed           : 
