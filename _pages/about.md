@@ -10,7 +10,7 @@ redirect_from:
   - /~tdear/
 ---
 
-I am a Senior Lecturer in the [Computer Science Department](http://www.cs.columbia.edu) of the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS) at [Columbia University](https://www.columbia.edu/). This semester (Fall 2025), I am teaching Discrete Mathematics (COMS 3203). If you are my [academic advisee](https://www.cs.columbia.edu/education/undergraduate/advisors/), please feel free to reach out by email for an appointment.
+I am a Senior Lecturer in the [Computer Science Department](http://www.cs.columbia.edu) of the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS) at [Columbia University](https://www.columbia.edu/). This semester (Spring 2026), I am teaching Machine Learning (COM 4771) and Discrete Mathematics (COMS 3203). If you are my [academic advisee](https://www.cs.columbia.edu/education/undergraduate/advisors/), please feel free to reach out by email for an appointment.
 
 As a lecturer, my energies are primarily focused on teaching and refining my courses, advising students, and contributing to various education programs in the school. I am the faculty director of the [CS@CU Bridge to MS Program](https://www.cs.columbia.edu/ms-bridge/) in Computer Science, and I am also the faculty director of the online [Artificial Intelligence executive education program](https://ai.engineering.columbia.edu/) in Columbia Engineering. In spring 2023, I launched Decision Making and Reinforcement Learning on [Coursera](https://www.coursera.org/learn/dmrol). This short online course covers some basics of decision-making theory and reinforcement learning and provides hands-on practice with checkpoints, quizzes, and programming assignments.
 
