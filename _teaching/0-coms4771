@@ -1,0 +1,45 @@
+---
+title: "COMS 4771, Machine Learning"
+collection: teaching
+permalink: /teaching/coms4771
+semester: Spring 2026
+---
+
+COMS 4771 is a graduate-level introduction to the statistical principles and algorithmic paradigms of machine learning (ML). Broadly speaking, ML is concerned with the tasks of learning models from data, generalizing to unseen scenarios, and solving problems without explicit instructions. We will focus mostly on supervised learning, including both classical and deep learning methods. We will also see how ML is used in various applications in NLP, vision, robotics, etc. throughout the course.
+
+## Course Objectives
+- Identify, describe, and formulate a typical machine learning problem. 
+- Become proficient in the mathematical language of machine learning: Linear algebra, optimization, probability and statistics.
+- Perform assessment and selection among different models for a given problem.
+- Formulate and analyze the solutions for linear regression and its generalizations.
+- Implement classical algorithms for linear classification, e.g. logistic regression and discriminant analysis.
+- Implement classical algorithms for nonlinear classification, e.g. decision trees and kernelized methods.
+- Implement unsupervised learning algorithms for clustering analysis and dimensionality reduction.
+- Understand and implement the general framework for deep learning.
+- Understand modern applications of deep learning, e.g. in vision and natural language.
+
+## Prerequisites
+- Python proficiency 
+- Linear algebra
+- Multivariable calculus
+- Probability and/or statistics
+
+## General List of Topics
+1. Optimization and statistical foundations
+2. Nearest neighbors
+3. Linear regression
+4. Shrinkage methods
+5. Basis expansions
+6. Kernel smoothing methods
+7. Model selection
+8. Decision trees
+9. Boosting
+10. Logistic regression
+11. Discriminant analysis
+12. Support vector machines
+13. Clustering
+14. Principal components analysis
+15. Neural networks
+16. Training neural networks
+17. Convolutional neural networks
+18. Attention and transformers
