@@ -10,7 +10,7 @@ redirect_from:
   - /~tdear/
 ---
 
-I am a Senior Lecturer in the [Computer Science Department](http://www.cs.columbia.edu) of the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS) at [Columbia University](https://www.columbia.edu/). I teach undergraduate and graduate computer science courses, with a focus on artificial intelligence, machine learning, and robotics. I am also the instructor of Decision Making and Reinforcement Learning on [Coursera](https://www.coursera.org/learn/dmrol). This semester (Summer 2026), I am teaching Artificial Intelligence (COMS 4701). 
+I am a Senior Lecturer in the [Computer Science Department](http://www.cs.columbia.edu) of the [School of Engineering and Applied Science](https://engineering.columbia.edu/) (SEAS) at [Columbia University](https://www.columbia.edu/). I teach undergraduate and graduate computer science courses, with a focus on artificial intelligence, machine learning, and robotics. I am also the instructor of Decision Making and Reinforcement Learning on [Coursera](https://www.coursera.org/learn/dmrol). This semester (Fall 2026), I am teaching Computational Aspects of Robotics (COMS 4733). 
 
 I am a faculty co-lead of Columbia Engineering's Agentic AI for Business executive education [program](https://cvn.columbia.edu/content/agentic-ai). I am also the faculty director of the CS@CU MS Bridge [program](https://www.cs.columbia.edu/ms-bridge/) for students and professionals from non-CS backgrounds seeking to make a transition into a CS-oriented career.
 
