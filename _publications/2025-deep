@@ -2,7 +2,6 @@
 title: "Deepcollide: Scalable data-driven high dof configuration space modeling using implicit neural representations"
 collection: publications
 permalink: /publications/2025-deep
-date: 2025
 venue: 'IEEE/CVF International Conference on Computer Vision'
 paperurl: 'https://openaccess.thecvf.com/content/ICCV2025W/E2E3D/html/Guo_DeepCollide_Scalable_Data-Driven_High_DoF_Configuration_Space_Modeling_using_Implicit_ICCVW_2025_paper.html'
 citation: >
