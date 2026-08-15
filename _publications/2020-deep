@@ -5,7 +5,8 @@ permalink: /publications/2020-deep
 date: 2020
 venue: 'IFAC-PapersOnLine'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2405896320333772'
-citation: 'Shi, J., Dear, T. and Kelly, S.D., 2020. Deep reinforcement learning for snake robot locomotion. IFAC-PapersOnLine, 53(2), pp.9688-9695.'
+citation: >
+  Shi, J., Dear, T. and Kelly, S.D., 2020. Deep reinforcement learning for snake robot locomotion. IFAC-PapersOnLine, 53(2), pp.9688-9695.
 ---
 
 Shi, J., Dear, T. and Kelly, S.D., 2020. Deep reinforcement learning for snake robot locomotion. IFAC-PapersOnLine, 53(2), pp.9688-9695.
