@@ -1,9 +1,7 @@
 ---
 title: "Deepcollide: Scalable data-driven high dof configuration space modeling using implicit neural representations"
 collection: publications
-permalink: /publications/2025-deep
-venue: 'IEEE/CVF International Conference on Computer Vision'
-date: 2025-01-01
+paperurl: "https://openaccess.thecvf.com/content/ICCV2025W/E2E3D/html/Guo_DeepCollide_Scalable_Data-Driven_High_DoF_Configuration_Space_Modeling_using_Implicit_ICCVW_2025_paper.html"
 citation: >
   Guo, G., Goldfeder, J., Ray, A., Dear, T. and Lipson, H., 2025. Deepcollide: Scalable data-driven high dof configuration space modeling using implicit neural representations. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 2689-2699).
 ---
