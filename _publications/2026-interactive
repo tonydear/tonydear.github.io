@@ -1,9 +1,7 @@
 ---
 title: "Interactive world simulator for robot policy training and evaluation"
 collection: publications
-permalink: 'https://arxiv.org/abs/2603.08546'
-date: 2026-01-01
-venue: 'arXiv preprint'
+paperurl: "https://arxiv.org/abs/2603.08546"
 citation: >
   Wang, Y., Syed, R., Wu, F., Zhang, M., Onol, A., Barreiros, J., Nayyeri, H., Dear, T., Zhang, H. and Li, Y., 2026. Interactive world simulator for robot policy training and evaluation. arXiv preprint arXiv:2603.08546.
 ---
