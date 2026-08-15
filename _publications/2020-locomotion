@@ -1,9 +1,7 @@
 ---
 title: "Locomotion of a multi-link non-holonomic snake robot with passive joints"
 collection: publications
-permalink: /publications/2020-locomotion
-venue: 'The International Journal of Robotics Research'
-date: 2020-01-01
+paperurl: "https://asmedigitalcollection.asme.org/DSCC/proceedings-abstract/DSCC2017/58288/230317"
 citation: >
   Dear, T., Buchanan, B., Abrajan-Guerrero, R., Kelly, S.D., Travers, M. and Choset, H., 2020. Locomotion of a multi-link non-holonomic snake robot with passive joints. The International Journal of Robotics Research, 39(5), pp.598-616.
 ---
